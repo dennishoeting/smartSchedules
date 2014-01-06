@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 31.05.2011 16:28:08 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="main.java.com.bradrydzewski.gwtgantt.model.Task" table="TASK">
+        <id name="UID" type="int">
+            <column name="UID" />
+            <generator class="assigned" />
+        </id>
+        <property name="selected" type="boolean">
+            <column name="SELECTED" />
+        </property>
+        <property name="isFinished" type="boolean" access="field">
+            <column name="ISFINISHED" />
+        </property>
+        <property name="isLate" type="boolean" access="field">
+            <column name="ISLATE" />
+        </property>
+        <property name="name" type="java.lang.String">
+            <column name="NAME" />
+        </property>
+        <property name="notes" type="java.lang.String">
+            <column name="NOTES" />
+        </property>
+        <property name="order" type="int">
+            <column name="ORDER" />
+        </property>
+        <property name="level" type="int">
+            <column name="LEVEL" />
+        </property>
+        <property name="start" type="java.util.Date">
+            <column name="START" />
+        </property>
+        <property name="finish" type="java.util.Date">
+            <column name="FINISH" />
+        </property>
+        <property name="duration" type="double">
+            <column name="DURATION" />
+        </property>
+        <list name="predecessors" inverse="false" table="PREDECESSOR" lazy="true">
+            <key>
+                <column name="UID" />
+            </key>
+            <list-index></list-index>
+            <one-to-many class="main.java.com.bradrydzewski.gwtgantt.model.Predecessor" />
+        </list>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,71 @@
+10
+
+dir
+805
+svn://hurrikan.informatik.uni-oldenburg.de:40815/Prototype/war/WEB-INF/classes/de/bachelor/smartSchedules
+svn://hurrikan.informatik.uni-oldenburg.de:40815
+
+
+
+2011-04-18T11:14:37.768370Z
+123
+dennis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eebc2d53-cd60-4be3-fee4-b494f0f4e803
+
+Prototype.gwt.xml
+file
+
+
+
+
+2011-04-21T06:43:51.396000Z
+66ab86f653f8858223c7dcdc8bd951d6
+2011-04-18T11:14:37.768370Z
+123
+dennis
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1071
+
+client
+dir
+
+server
+dir
+
+shared
+dir
+

@@ -1,0 +1,5 @@
+<hibernate-mapping>
+  <class name="ScheduleOrder" table="SCHEDULEORDER">
+  
+  </class>
+</hibernate-mapping>

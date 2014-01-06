@@ -1,0 +1,74 @@
+10
+
+dir
+805
+svn://hurrikan.informatik.uni-oldenburg.de:40815/Prototype/src/de/bachelor/smartSchedules/server/model
+svn://hurrikan.informatik.uni-oldenburg.de:40815
+
+
+
+2011-07-20T19:26:36.773654Z
+805
+Dennis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eebc2d53-cd60-4be3-fee4-b494f0f4e803
+
+ScenarioManagerImpl.java
+file
+
+
+
+
+2011-07-20T19:40:19.988000Z
+bfb14f3f3c61d187302631e5850aec95
+2011-07-20T18:41:33.176346Z
+804
+timo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41289
+
+algorithm
+dir
+
+db
+dir
+
+util
+dir
+
+xmlparser
+dir
+

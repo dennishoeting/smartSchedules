@@ -1,0 +1,71 @@
+10
+
+dir
+805
+svn://hurrikan.informatik.uni-oldenburg.de:40815/Prototype/src/de/bachelor/smartSchedules/client
+svn://hurrikan.informatik.uni-oldenburg.de:40815
+
+
+
+2011-07-20T19:26:36.773654Z
+805
+Dennis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eebc2d53-cd60-4be3-fee4-b494f0f4e803
+
+Prototype.java
+file
+
+
+
+
+2011-06-28T08:52:54.370000Z
+c3fcadac426b0f9a3531f790913a2d70
+2011-05-19T13:55:08.199992Z
+337
+Dennis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+379
+
+presenter
+dir
+
+service
+dir
+
+view
+dir
+

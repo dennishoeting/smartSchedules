@@ -1,0 +1,34 @@
+10
+
+dir
+805
+svn://hurrikan.informatik.uni-oldenburg.de:40815/Prototype/war/prototype/sc/system
+svn://hurrikan.informatik.uni-oldenburg.de:40815
+
+
+
+2011-04-15T17:26:01.705426Z
+114
+dennis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eebc2d53-cd60-4be3-fee4-b494f0f4e803
+
+helpers
+dir
+
+schema
+dir
+
